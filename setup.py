@@ -7,7 +7,7 @@ setup(
     url='',
     license='',
     author='',
-    author_email='mlovci@ucsd.edu',
+    author_email='',
     description='',
     include_package_data=True,
    
